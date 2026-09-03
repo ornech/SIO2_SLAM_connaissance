@@ -1,4 +1,9 @@
 # Martino
 ## Section SLAM
 Bonjour les SIO !!!!!!!!!!!!!!!!!!!!!
-:japanese_goblin:
+
+
+# Memo E5
+
+1) attendus
+2) Portefolio
