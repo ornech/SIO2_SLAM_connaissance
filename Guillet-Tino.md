@@ -5,3 +5,5 @@ Bonjour les SIO !!
 1) Attendus
 2) Portfolio
 # Projet
+a) SIO 1
+b) SIO 2
