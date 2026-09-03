@@ -1,6 +1,7 @@
 # Aussurin
 ## Section SLAM
 Bonjour, les SIO
+:+1:
 
 
 # Mémo E5
